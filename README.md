@@ -1,2 +1,2 @@
 # git_test
-My first GitHub rep!
+This repo contains leetcode solutions in c++
